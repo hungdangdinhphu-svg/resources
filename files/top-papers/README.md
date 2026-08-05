@@ -12,7 +12,7 @@
 
 **Computer Science (CS)**
 
-1. Discrete Mathematics ; 2. Computational Complexity ; 3. Data Structures and Algorithms ; 4. Computer Science and Game Theory ; 5. Computational Geometry
+1. [Discrete Mathematics](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Discrete%20Mathematics) ; 2. Computational Complexity ; 3. Data Structures and Algorithms ; 4. Computer Science and Game Theory ; 5. Computational Geometry
 
 **Quantum**
 
