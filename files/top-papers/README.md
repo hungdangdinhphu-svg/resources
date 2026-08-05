@@ -4,7 +4,7 @@
 
 **Physics**
 
-1. General Physics ; 2. Nuclear Theory ; 3. Quantum Physics
+1. [General Physics](a.com) ; 2. Nuclear Theory ; 3. Quantum Physics
 
 **Mathematics**
 
