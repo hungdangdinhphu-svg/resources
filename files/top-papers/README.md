@@ -20,7 +20,7 @@
 
 **Statistics**
 
-1. [Machine Learning](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Statistics/Machine%20Learning) (ML) ; 2. Deep Learning (DL)
+1. [Machine Learning](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Statistics/Machine%20Learning) (ML) ; 2. [Deep Learning](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Statistics/Deep%20Learning) (DL)
 
 **Electrical Engineering and Systems Science**
 
