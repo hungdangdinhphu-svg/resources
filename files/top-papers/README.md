@@ -16,7 +16,7 @@
 
 **Quantum**
 
-Quantum Mechanics
+[Quantum Mechanics](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Quantum/Quantum%20Mechanics)
 
 **Statistics**
 
