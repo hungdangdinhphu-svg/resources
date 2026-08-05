@@ -1,6 +1,6 @@
 # Fields
 
-**Tip : Bấm vào lĩnh vực bạn đang quan tâm.**
+**Tip : Bấm vào lĩnh vực bạn đang quan tâm. Lăn chuột giữa xuống để xem thêm!**
 
 **Physics**
 
