@@ -12,7 +12,7 @@
 
 **Computer Science (CS)**
 
-1. [Discrete Mathematics](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Discrete%20Mathematics) ; 2. [Computational Complexity](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Computational%20Complexity) ; 3. [Data Structures and Algorithms](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Data%20Structures%20and%20Algorithms) ; 4. Computer Science and Game Theory ; 5. Computational Geometry
+1. [Discrete Mathematics](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Discrete%20Mathematics) ; 2. [Computational Complexity](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Computational%20Complexity) ; 3. [Data Structures and Algorithms](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Data%20Structures%20and%20Algorithms) ; 4. [Computer Science and Game Theory](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/CS/Computer%20Science%20and%20Game%20Theory) ; 5. Computational Geometry
 
 **Quantum**
 
