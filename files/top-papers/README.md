@@ -24,7 +24,7 @@
 
 **Electrical Engineering and Systems Science**
 
-1. [Signal Processing](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Electrical%20Engineering%20and%20Systems%20Science/Signal%20Processing) ; 2. Nodal Analysis ; 3. Electrical Engineering and Systems Science
+1. [Signal Processing](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Electrical%20Engineering%20and%20Systems%20Science/Signal%20Processing) ; 2. [Nodal Analysis](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Electrical%20Engineering%20and%20Systems%20Science/Nodal%20Analysis) ; 3. Electrical Engineering and Systems Science
 
 **Other**
 
