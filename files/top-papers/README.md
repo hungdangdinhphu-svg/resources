@@ -8,7 +8,7 @@
 
 **Mathematics**
 
-1. [Abstract Algebra](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Mathematics/Abstract%20Algebra) ; 2. Linear Algebra ; 3. Calculus
+1. [Abstract Algebra](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Mathematics/Abstract%20Algebra) ; 2. [Linear Algebra](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Mathematics/Linear%20Algebra) ; 3. Calculus
 
 **Computer Science (CS)**
 
