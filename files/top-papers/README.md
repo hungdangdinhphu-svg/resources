@@ -4,7 +4,7 @@
 
 **Physics**
 
-1. [General Physics](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Physics/General%20Physics) ; 2. [Nuclear Theory](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Physics/Nuclear%20Theory) ; 3. Quantum Physics
+1. [General Physics](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Physics/General%20Physics) ; 2. [Nuclear Theory](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Physics/Nuclear%20Theory) ; 3. [Quantum Physics](https://github.com/hungdangdinhphu-svg/resources/tree/main/files/top-papers/Physics/Quantum%20Physics)
 
 **Mathematics**
 
